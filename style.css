@@ -108,3 +108,11 @@ img {
 #no-facebook {
     text-align:center;
 }
+
+#new-pgp-key p {
+    text-align:center;
+}
+
+#email-listing {
+    margin-left:5ex;
+}
